@@ -1,2 +1,3 @@
 1, Programming is physically demanding activity - exercise, sit straight, make breaks, drink fluids, go outside
 2, Get it done attitude - Keep your eye on goal, get the project done, don't focus on small bugs
+3, Keep it simple - simplicity, consistency, don't over-engineer, write understandable code
