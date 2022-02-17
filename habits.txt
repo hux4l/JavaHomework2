@@ -3,3 +3,4 @@
 3, Keep it simple - simplicity, consistency, don't over-engineer, write understandable code
 4, The "Zone" - get ~3 uninterrupted hours to focus, to be productive
 5, Always learn - learn new things, be able to debug code, go outside confort zone
+6, Collaboration - working as team, ask for help from others, don't do things alone
